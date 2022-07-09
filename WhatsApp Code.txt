@@ -12,3 +12,6 @@ Author::- Swapnil
 
 5. Hidding Last Seen
 
+6. Audio Adding Audio Added
+
+7. Video Adding Video Added
